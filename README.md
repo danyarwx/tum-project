@@ -61,4 +61,3 @@ Run the cells step by step to reproduce the analysis and visualizations.
 ## License
 
 This project is for **educational purposes only**.  
-If you intend to use or modify it, please check the LICENSE file.
