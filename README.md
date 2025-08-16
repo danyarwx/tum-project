@@ -1,4 +1,4 @@
-# Credit Scoring Analysis
+# Data Analysis: Credit Scoring in Banks
 
 This project explores a **credit scoring dataset** with the goal of understanding factors that contribute to financial distress and building a foundation for predictive modeling.  
 The work was completed as part of a university project, focusing on **data cleaning, preprocessing, exploratory data analysis (EDA), visualization, and machine learning models**.
